@@ -4,3 +4,5 @@ print('add one line')
 
 print('Merge conflict!')
 
+print('forth print')
+
