@@ -2,4 +2,6 @@ print('Git Test!')
 
 print('add one line')
 
-print('Merge conflict!!!')
+
+print('Merge conflict!')
+
