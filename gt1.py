@@ -6,3 +6,4 @@ print('Merge conflict!')
 
 print('forth print')
 
+print('fifth print')
