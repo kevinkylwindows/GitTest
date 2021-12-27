@@ -4,3 +4,4 @@ print('add one line')
 
 print('Merge conflict!')
 
+print('branch new_feature')
