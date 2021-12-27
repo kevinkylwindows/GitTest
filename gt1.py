@@ -7,3 +7,5 @@ print('Merge conflict!')
 print('forth print')
 
 print('fifth print')
+
+print("confirm branches are independent")
